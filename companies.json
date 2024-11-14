@@ -1,0 +1,1460 @@
+{"comp":[
+	{
+		"displaySequence": 1,
+		"organization": {
+			"duns": "804735132",
+			"dunsControlStatus": {
+				"isOutOfBusiness": false
+			},
+			"primaryName": "NetSuite",
+			"primaryAddress": {
+				"addressCountry": {
+					"isoAlpha2Code": "US"
+				},
+				"streetAddress": {
+					"line1": "555 SW 5TH ST"
+				},
+				"addressLocality": {
+					"name": "BENTONVILLE"
+				},
+				"addressRegion": {
+					"name": "Redwood City, "
+				}
+			},
+			"corporateLinkage": {
+				"isBranch": false
+			},
+			"financials": [
+				{
+					"yearlyRevenue": [
+						{
+							"value": 485873000000,
+							"currency": "USD"
+						}
+					]
+				}
+			],
+			"tradeStyleNames": [
+				{
+					"name": "GORMAN",
+					"priority": 1
+				},
+				{
+					"name": "GORMAN Co.",
+					"priority": 2
+				}
+			],
+			"primaryIndustryCodes": [
+				{
+					"usSicV4": "5311",
+					"usSicV4Description": "Department store"
+				}
+			],
+			"iconUrl": "//axdprrulpfmh.compat.objectstorage.us-phoenix-1.oraclecloud.com/datafox-public-prod/favicons/5130efc38989846a360001f6.ico"
+		}
+	},
+	{
+		"displaySequence": 1,
+		"organization": {
+			"duns": "213489712",
+			"dunsControlStatus": {
+				"isOutOfBusiness": false
+			},
+			"primaryName": "Dyn",
+			"primaryAddress": {
+				"addressCountry": {
+					"isoAlpha2Code": "US"
+				},
+				"streetAddress": {
+					"line1": "555 SW 5TH ST"
+				},
+				"addressLocality": {
+					"name": "BENTONVILLE"
+				},
+				"addressRegion": {
+					"name": "Manchester"
+				}
+			},
+			"corporateLinkage": {
+				"isBranch": false
+			},
+			"financials": [
+				{
+					"yearlyRevenue": [
+						{
+							"value": 485873000000,
+							"currency": "USD"
+						}
+					]
+				}
+			],
+			"tradeStyleNames": [
+				{
+					"name": "GORMAN",
+					"priority": 1
+				},
+				{
+					"name": "GORMAN Co.",
+					"priority": 2
+				}
+			],
+			"primaryIndustryCodes": [
+				{
+					"usSicV4": "5311",
+					"usSicV4Description": "Department store"
+				}
+			],
+			"iconUrl": "//axdprrulpfmh.compat.objectstorage.us-phoenix-1.oraclecloud.com/datafox-public-prod/favicons/5130efec8989846a36007762.ico"
+		}
+	},
+	{
+		"displaySequence": 1,
+		"organization": {
+			"duns": "239047824",
+			"dunsControlStatus": {
+				"isOutOfBusiness": false
+			},
+			"primaryName": "Sedgwick",
+			"primaryAddress": {
+				"addressCountry": {
+					"isoAlpha2Code": "US"
+				},
+				"streetAddress": {
+					"line1": "555 SW 5TH ST"
+				},
+				"addressLocality": {
+					"name": "BENTONVILLE"
+				},
+				"addressRegion": {
+					"name": "Memphis"
+				}
+			},
+			"corporateLinkage": {
+				"isBranch": false
+			},
+			"financials": [
+				{
+					"yearlyRevenue": [
+						{
+							"value": 485873000000,
+							"currency": "USD"
+						}
+					]
+				}
+			],
+			"tradeStyleNames": [
+				{
+					"name": "GORMAN",
+					"priority": 1
+				},
+				{
+					"name": "GORMAN Co.",
+					"priority": 2
+				}
+			],
+			"primaryIndustryCodes": [
+				{
+					"usSicV4": "5311",
+					"usSicV4Description": "Department store"
+				}
+			],
+			"iconUrl": "//axdprrulpfmh.compat.objectstorage.us-phoenix-1.oraclecloud.com/datafox-public-prod/favicons/541abb8356a990ca1c000508.ico"
+		}
+	},
+	{
+		"displaySequence": 1,
+		"organization": {
+			"duns": "345987533",
+			"dunsControlStatus": {
+				"isOutOfBusiness": false
+			},
+			"primaryName": "Oracle Lighting",
+			"primaryAddress": {
+				"addressCountry": {
+					"isoAlpha2Code": "US"
+				},
+				"streetAddress": {
+					"line1": "555 SW 5TH ST"
+				},
+				"addressLocality": {
+					"name": "BENTONVILLE"
+				},
+				"addressRegion": {
+					"name": "Metairie"
+				}
+			},
+			"corporateLinkage": {
+				"isBranch": false
+			},
+			"financials": [
+				{
+					"yearlyRevenue": [
+						{
+							"value": 485873000000,
+							"currency": "USD"
+						}
+					]
+				}
+			],
+			"tradeStyleNames": [
+				{
+					"name": "GORMAN",
+					"priority": 1
+				},
+				{
+					"name": "GORMAN Co.",
+					"priority": 2
+				}
+			],
+			"primaryIndustryCodes": [
+				{
+					"usSicV4": "5311",
+					"usSicV4Description": "Department store"
+				}
+			],
+			"iconUrl": "//axdprrulpfmh.compat.objectstorage.us-phoenix-1.oraclecloud.com/datafox-public-prod/favicons/5254d1049f309cd30400013a.ico"
+		}
+	},
+	{
+		"displaySequence": 1,
+		"organization": {
+			"duns": "354198734",
+			"dunsControlStatus": {
+				"isOutOfBusiness": false
+			},
+			"primaryName": "CrowdTwist",
+			"primaryAddress": {
+				"addressCountry": {
+					"isoAlpha2Code": "US"
+				},
+				"streetAddress": {
+					"line1": "555 SW 5TH ST"
+				},
+				"addressLocality": {
+					"name": "BENTONVILLE"
+				},
+				"addressRegion": {
+					"name": "New York"
+				}
+			},
+			"corporateLinkage": {
+				"isBranch": false
+			},
+			"financials": [
+				{
+					"yearlyRevenue": [
+						{
+							"value": 485873000000,
+							"currency": "USD"
+						}
+					]
+				}
+			],
+			"tradeStyleNames": [
+				{
+					"name": "GORMAN",
+					"priority": 1
+				},
+				{
+					"name": "GORMAN Co.",
+					"priority": 2
+				}
+			],
+			"primaryIndustryCodes": [
+				{
+					"usSicV4": "5311",
+					"usSicV4Description": "Department store"
+				}
+			],
+			"iconUrl": "//axdprrulpfmh.compat.objectstorage.us-phoenix-1.oraclecloud.com/datafox-public-prod/favicons/5130f0248989846a3601359e.ico"
+		}
+	},
+	{
+		"displaySequence": 1,
+		"organization": {
+			"duns": "135412344",
+			"dunsControlStatus": {
+				"isOutOfBusiness": false
+			},
+			"primaryName": "Moat",
+			"primaryAddress": {
+				"addressCountry": {
+					"isoAlpha2Code": "US"
+				},
+				"streetAddress": {
+					"line1": "555 SW 5TH ST"
+				},
+				"addressLocality": {
+					"name": "BENTONVILLE"
+				},
+				"addressRegion": {
+					"name": "New York"
+				}
+			},
+			"corporateLinkage": {
+				"isBranch": false
+			},
+			"financials": [
+				{
+					"yearlyRevenue": [
+						{
+							"value": 485873000000,
+							"currency": "USD"
+						}
+					]
+				}
+			],
+			"tradeStyleNames": [
+				{
+					"name": "GORMAN",
+					"priority": 1
+				},
+				{
+					"name": "GORMAN Co.",
+					"priority": 2
+				}
+			],
+			"primaryIndustryCodes": [
+				{
+					"usSicV4": "5311",
+					"usSicV4Description": "Department store"
+				}
+			],
+			"iconUrl": "//axdprrulpfmh.compat.objectstorage.us-phoenix-1.oraclecloud.com/datafox-public-prod/favicons/5130f0598989846a3601e7a0.ico"
+		}
+	},
+	{
+		"displaySequence": 1,
+		"organization": {
+			"duns": "234512342",
+			"dunsControlStatus": {
+				"isOutOfBusiness": false
+			},
+			"primaryName": "Oracle Corporation UK Limited",
+			"primaryAddress": {
+				"addressCountry": {
+					"isoAlpha2Code": "US"
+				},
+				"streetAddress": {
+					"line1": "555 SW 5TH ST"
+				},
+				"addressLocality": {
+					"name": "BENTONVILLE"
+				},
+				"addressRegion": {
+					"name": "Reading"
+				}
+			},
+			"corporateLinkage": {
+				"isBranch": false
+			},
+			"financials": [
+				{
+					"yearlyRevenue": [
+						{
+							"value": 485873000000,
+							"currency": "USD"
+						}
+					]
+				}
+			],
+			"tradeStyleNames": [
+				{
+					"name": "GORMAN",
+					"priority": 1
+				},
+				{
+					"name": "GORMAN Co.",
+					"priority": 2
+				}
+			],
+			"primaryIndustryCodes": [
+				{
+					"usSicV4": "5311",
+					"usSicV4Description": "Department store"
+				}
+			],
+			"iconUrl": "//axdprrulpfmh.compat.objectstorage.us-phoenix-1.oraclecloud.com/datafox-public-prod/favicons/58e22e3545930d2649ebd647.ico"
+		}
+	},
+	{
+		"displaySequence": 1,
+		"organization": {
+			"duns": "123456789",
+			"dunsControlStatus": {
+				"isOutOfBusiness": false
+			},
+			"primaryName": "TechX Solutions",
+			"primaryAddress": {
+				"addressCountry": {
+					"isoAlpha2Code": "US"
+				},
+				"streetAddress": {
+					"line1": "555 SW 5TH ST"
+				},
+				"addressLocality": {
+					"name": "BENTONVILLE"
+				},
+				"addressRegion": {
+					"name": "San Francisco"
+				}
+			},
+			"corporateLinkage": {
+				"isBranch": false
+			},
+			"financials": [
+				{
+					"yearlyRevenue": [
+						{
+							"value": 485873000000,
+							"currency": "USD"
+						}
+					]
+				}
+			],
+			"tradeStyleNames": [
+				{
+					"name": "GORMAN",
+					"priority": 1
+				},
+				{
+					"name": "GORMAN Co.",
+					"priority": 2
+				}
+			],
+			"primaryIndustryCodes": [
+				{
+					"usSicV4": "5311",
+					"usSicV4Description": "Department store"
+				}
+			],
+			"iconUrl": "//axdprrulpfmh.compat.objectstorage.us-phoenix-1.oraclecloud.com/datafox-public-prod/favicons/5130efc38989846a360001f6.ico"
+		}
+	},
+	{
+		"displaySequence": 1,
+		"organization": {
+			"duns": "987654321",
+			"dunsControlStatus": {
+				"isOutOfBusiness": false
+			},
+			"primaryName": "InnovaTech",
+			"primaryAddress": {
+				"addressCountry": {
+					"isoAlpha2Code": "US"
+				},
+				"streetAddress": {
+					"line1": "555 SW 5TH ST"
+				},
+				"addressLocality": {
+					"name": "BENTONVILLE"
+				},
+				"addressRegion": {
+					"name": "London"
+				}
+			},
+			"corporateLinkage": {
+				"isBranch": false
+			},
+			"financials": [
+				{
+					"yearlyRevenue": [
+						{
+							"value": 485873000000,
+							"currency": "USD"
+						}
+					]
+				}
+			],
+			"tradeStyleNames": [
+				{
+					"name": "GORMAN",
+					"priority": 1
+				},
+				{
+					"name": "GORMAN Co.",
+					"priority": 2
+				}
+			],
+			"primaryIndustryCodes": [
+				{
+					"usSicV4": "5311",
+					"usSicV4Description": "Department store"
+				}
+			],
+			"iconUrl": "//axdprrulpfmh.compat.objectstorage.us-phoenix-1.oraclecloud.com/datafox-public-prod/favicons/5130efec8989846a36007762.ico"
+		}
+	},
+	{
+		"displaySequence": 1,
+		"organization": {
+			"duns": "345987234",
+			"dunsControlStatus": {
+				"isOutOfBusiness": false
+			},
+			"primaryName": "Delta Dynamics",
+			"primaryAddress": {
+				"addressCountry": {
+					"isoAlpha2Code": "US"
+				},
+				"streetAddress": {
+					"line1": "555 SW 5TH ST"
+				},
+				"addressLocality": {
+					"name": "BENTONVILLE"
+				},
+				"addressRegion": {
+					"name": "Austin"
+				}
+			},
+			"corporateLinkage": {
+				"isBranch": false
+			},
+			"financials": [
+				{
+					"yearlyRevenue": [
+						{
+							"value": 485873000000,
+							"currency": "USD"
+						}
+					]
+				}
+			],
+			"tradeStyleNames": [
+				{
+					"name": "GORMAN",
+					"priority": 1
+				},
+				{
+					"name": "GORMAN Co.",
+					"priority": 2
+				}
+			],
+			"primaryIndustryCodes": [
+				{
+					"usSicV4": "5311",
+					"usSicV4Description": "Department store"
+				}
+			],
+			"iconUrl": "//axdprrulpfmh.compat.objectstorage.us-phoenix-1.oraclecloud.com/datafox-public-prod/favicons/541abb8356a990ca1c000508.ico"
+		}
+	},
+	{
+		"displaySequence": 1,
+		"organization": {
+			"duns": "129834762",
+			"dunsControlStatus": {
+				"isOutOfBusiness": false
+			},
+			"primaryName": "BlueLight Innovations",
+			"primaryAddress": {
+				"addressCountry": {
+					"isoAlpha2Code": "US"
+				},
+				"streetAddress": {
+					"line1": "555 SW 5TH ST"
+				},
+				"addressLocality": {
+					"name": "BENTONVILLE"
+				},
+				"addressRegion": {
+					"name": "Sydney"
+				}
+			},
+			"corporateLinkage": {
+				"isBranch": false
+			},
+			"financials": [
+				{
+					"yearlyRevenue": [
+						{
+							"value": 485873000000,
+							"currency": "USD"
+						}
+					]
+				}
+			],
+			"tradeStyleNames": [
+				{
+					"name": "GORMAN",
+					"priority": 1
+				},
+				{
+					"name": "GORMAN Co.",
+					"priority": 2
+				}
+			],
+			"primaryIndustryCodes": [
+				{
+					"usSicV4": "5311",
+					"usSicV4Description": "Department store"
+				}
+			],
+			"iconUrl": "//axdprrulpfmh.compat.objectstorage.us-phoenix-1.oraclecloud.com/datafox-public-prod/favicons/5254d1049f309cd30400013a.ico"
+		}
+	},
+	{
+		"displaySequence": 1,
+		"organization": {
+			"duns": "231467892",
+			"dunsControlStatus": {
+				"isOutOfBusiness": false
+			},
+			"primaryName": "Vortex Labs",
+			"primaryAddress": {
+				"addressCountry": {
+					"isoAlpha2Code": "US"
+				},
+				"streetAddress": {
+					"line1": "555 SW 5TH ST"
+				},
+				"addressLocality": {
+					"name": "BENTONVILLE"
+				},
+				"addressRegion": {
+					"name": "Mumbai"
+				}
+			},
+			"corporateLinkage": {
+				"isBranch": false
+			},
+			"financials": [
+				{
+					"yearlyRevenue": [
+						{
+							"value": 485873000000,
+							"currency": "USD"
+						}
+					]
+				}
+			],
+			"tradeStyleNames": [
+				{
+					"name": "GORMAN",
+					"priority": 1
+				},
+				{
+					"name": "GORMAN Co.",
+					"priority": 2
+				}
+			],
+			"primaryIndustryCodes": [
+				{
+					"usSicV4": "5311",
+					"usSicV4Description": "Department store"
+				}
+			],
+			"iconUrl": "//axdprrulpfmh.compat.objectstorage.us-phoenix-1.oraclecloud.com/datafox-public-prod/favicons/5130f0248989846a3601359e.ico"
+		}
+	},
+	{
+		"displaySequence": 1,
+		"organization": {
+			"duns": "341876543",
+			"dunsControlStatus": {
+				"isOutOfBusiness": false
+			},
+			"primaryName": "Neon Tech",
+			"primaryAddress": {
+				"addressCountry": {
+					"isoAlpha2Code": "US"
+				},
+				"streetAddress": {
+					"line1": "555 SW 5TH ST"
+				},
+				"addressLocality": {
+					"name": "BENTONVILLE"
+				},
+				"addressRegion": {
+					"name": "Berlin"
+				}
+			},
+			"corporateLinkage": {
+				"isBranch": false
+			},
+			"financials": [
+				{
+					"yearlyRevenue": [
+						{
+							"value": 485873000000,
+							"currency": "USD"
+						}
+					]
+				}
+			],
+			"tradeStyleNames": [
+				{
+					"name": "GORMAN",
+					"priority": 1
+				},
+				{
+					"name": "GORMAN Co.",
+					"priority": 2
+				}
+			],
+			"primaryIndustryCodes": [
+				{
+					"usSicV4": "5311",
+					"usSicV4Description": "Department store"
+				}
+			],
+			"iconUrl": "//axdprrulpfmh.compat.objectstorage.us-phoenix-1.oraclecloud.com/datafox-public-prod/favicons/5130f0598989846a3601e7a0.ico"
+		}
+	},
+	{
+		"displaySequence": 1,
+		"organization": {
+			"duns": "483920384",
+			"dunsControlStatus": {
+				"isOutOfBusiness": false
+			},
+			"primaryName": "Fusion Analytics",
+			"primaryAddress": {
+				"addressCountry": {
+					"isoAlpha2Code": "US"
+				},
+				"streetAddress": {
+					"line1": "555 SW 5TH ST"
+				},
+				"addressLocality": {
+					"name": "BENTONVILLE"
+				},
+				"addressRegion": {
+					"name": "Paris"
+				}
+			},
+			"corporateLinkage": {
+				"isBranch": false
+			},
+			"financials": [
+				{
+					"yearlyRevenue": [
+						{
+							"value": 485873000000,
+							"currency": "USD"
+						}
+					]
+				}
+			],
+			"tradeStyleNames": [
+				{
+					"name": "GORMAN",
+					"priority": 1
+				},
+				{
+					"name": "GORMAN Co.",
+					"priority": 2
+				}
+			],
+			"primaryIndustryCodes": [
+				{
+					"usSicV4": "5311",
+					"usSicV4Description": "Department store"
+				}
+			],
+			"iconUrl": "//axdprrulpfmh.compat.objectstorage.us-phoenix-1.oraclecloud.com/datafox-public-prod/favicons/58e22e3545930d2649ebd647.ico"
+		}
+	},
+	{
+		"displaySequence": 1,
+		"organization": {
+			"duns": "674839012",
+			"dunsControlStatus": {
+				"isOutOfBusiness": false
+			},
+			"primaryName": "NextGen Tech",
+			"primaryAddress": {
+				"addressCountry": {
+					"isoAlpha2Code": "US"
+				},
+				"streetAddress": {
+					"line1": "555 SW 5TH ST"
+				},
+				"addressLocality": {
+					"name": "BENTONVILLE"
+				},
+				"addressRegion": {
+					"name": "Toronto"
+				}
+			},
+			"corporateLinkage": {
+				"isBranch": false
+			},
+			"financials": [
+				{
+					"yearlyRevenue": [
+						{
+							"value": 485873000000,
+							"currency": "USD"
+						}
+					]
+				}
+			],
+			"tradeStyleNames": [
+				{
+					"name": "GORMAN",
+					"priority": 1
+				},
+				{
+					"name": "GORMAN Co.",
+					"priority": 2
+				}
+			],
+			"primaryIndustryCodes": [
+				{
+					"usSicV4": "5311",
+					"usSicV4Description": "Department store"
+				}
+			],
+			"iconUrl": "//axdprrulpfmh.compat.objectstorage.us-phoenix-1.oraclecloud.com/datafox-public-prod/favicons/9845d235a1249bc0056f0072.ico"
+		}
+	},
+	{
+		"displaySequence": 1,
+		"organization": {
+			"duns": "574839104",
+			"dunsControlStatus": {
+				"isOutOfBusiness": false
+			},
+			"primaryName": "Quantify Systems",
+			"primaryAddress": {
+				"addressCountry": {
+					"isoAlpha2Code": "US"
+				},
+				"streetAddress": {
+					"line1": "555 SW 5TH ST"
+				},
+				"addressLocality": {
+					"name": "BENTONVILLE"
+				},
+				"addressRegion": {
+					"name": "Melbourne"
+				}
+			},
+			"corporateLinkage": {
+				"isBranch": false
+			},
+			"financials": [
+				{
+					"yearlyRevenue": [
+						{
+							"value": 485873000000,
+							"currency": "USD"
+						}
+					]
+				}
+			],
+			"tradeStyleNames": [
+				{
+					"name": "GORMAN",
+					"priority": 1
+				},
+				{
+					"name": "GORMAN Co.",
+					"priority": 2
+				}
+			],
+			"primaryIndustryCodes": [
+				{
+					"usSicV4": "5311",
+					"usSicV4Description": "Department store"
+				}
+			],
+			"iconUrl": "//axdprrulpfmh.compat.objectstorage.us-phoenix-1.oraclecloud.com/datafox-public-prod/favicons/6130e23348989846a3601f743.ico"
+		}
+	},
+	{
+		"displaySequence": 1,
+		"organization": {
+			"duns": "239847651",
+			"dunsControlStatus": {
+				"isOutOfBusiness": false
+			},
+			"primaryName": "Nimbus Solutions",
+			"primaryAddress": {
+				"addressCountry": {
+					"isoAlpha2Code": "US"
+				},
+				"streetAddress": {
+					"line1": "555 SW 5TH ST"
+				},
+				"addressLocality": {
+					"name": "BENTONVILLE"
+				},
+				"addressRegion": {
+					"name": "Madrid"
+				}
+			},
+			"corporateLinkage": {
+				"isBranch": false
+			},
+			"financials": [
+				{
+					"yearlyRevenue": [
+						{
+							"value": 485873000000,
+							"currency": "USD"
+						}
+					]
+				}
+			],
+			"tradeStyleNames": [
+				{
+					"name": "GORMAN",
+					"priority": 1
+				},
+				{
+					"name": "GORMAN Co.",
+					"priority": 2
+				}
+			],
+			"primaryIndustryCodes": [
+				{
+					"usSicV4": "5311",
+					"usSicV4Description": "Department store"
+				}
+			],
+			"iconUrl": "//axdprrulpfmh.compat.objectstorage.us-phoenix-1.oraclecloud.com/datafox-public-prod/favicons/5230f0849879846b3601a6e8.ico"
+		}
+	},
+	{
+		"displaySequence": 1,
+		"organization": {
+			"duns": "564738291",
+			"dunsControlStatus": {
+				"isOutOfBusiness": false
+			},
+			"primaryName": "AlphaTech Solutions",
+			"primaryAddress": {
+				"addressCountry": {
+					"isoAlpha2Code": "US"
+				},
+				"streetAddress": {
+					"line1": "555 SW 5TH ST"
+				},
+				"addressLocality": {
+					"name": "BENTONVILLE"
+				},
+				"addressRegion": {
+					"name": "Chicago"
+				}
+			},
+			"corporateLinkage": {
+				"isBranch": false
+			},
+			"financials": [
+				{
+					"yearlyRevenue": [
+						{
+							"value": 485873000000,
+							"currency": "USD"
+						}
+					]
+				}
+			],
+			"tradeStyleNames": [
+				{
+					"name": "GORMAN",
+					"priority": 1
+				},
+				{
+					"name": "GORMAN Co.",
+					"priority": 2
+				}
+			],
+			"primaryIndustryCodes": [
+				{
+					"usSicV4": "5311",
+					"usSicV4Description": "Department store"
+				}
+			],
+			"iconUrl": "//axdprrulpfmh.compat.objectstorage.us-phoenix-1.oraclecloud.com/datafox-public-prod/favicons/6230afc48989846a360004f6.ico"
+		}
+	},
+	{
+		"displaySequence": 1,
+		"organization": {
+			"duns": "657483920",
+			"dunsControlStatus": {
+				"isOutOfBusiness": false
+			},
+			"primaryName": "SkyTech Innovations",
+			"primaryAddress": {
+				"addressCountry": {
+					"isoAlpha2Code": "US"
+				},
+				"streetAddress": {
+					"line1": "555 SW 5TH ST"
+				},
+				"addressLocality": {
+					"name": "BENTONVILLE"
+				},
+				"addressRegion": {
+					"name": "Boston"
+				}
+			},
+			"corporateLinkage": {
+				"isBranch": false
+			},
+			"financials": [
+				{
+					"yearlyRevenue": [
+						{
+							"value": 485873000000,
+							"currency": "USD"
+						}
+					]
+				}
+			],
+			"tradeStyleNames": [
+				{
+					"name": "GORMAN",
+					"priority": 1
+				},
+				{
+					"name": "GORMAN Co.",
+					"priority": 2
+				}
+			],
+			"primaryIndustryCodes": [
+				{
+					"usSicV4": "5311",
+					"usSicV4Description": "Department store"
+				}
+			],
+			"iconUrl": "//axdprrulpfmh.compat.objectstorage.us-phoenix-1.oraclecloud.com/datafox-public-prod/favicons/5230bfca6989846a36008412.ico"
+		}
+	},
+	{
+		"displaySequence": 1,
+		"organization": {
+			"duns": "948372615",
+			"dunsControlStatus": {
+				"isOutOfBusiness": false
+			},
+			"primaryName": "BetaTech Systems",
+			"primaryAddress": {
+				"addressCountry": {
+					"isoAlpha2Code": "US"
+				},
+				"streetAddress": {
+					"line1": "555 SW 5TH ST"
+				},
+				"addressLocality": {
+					"name": "BENTONVILLE"
+				},
+				"addressRegion": {
+					"name": "San Diego"
+				}
+			},
+			"corporateLinkage": {
+				"isBranch": false
+			},
+			"financials": [
+				{
+					"yearlyRevenue": [
+						{
+							"value": 485873000000,
+							"currency": "USD"
+						}
+					]
+				}
+			],
+			"tradeStyleNames": [
+				{
+					"name": "GORMAN",
+					"priority": 1
+				},
+				{
+					"name": "GORMAN Co.",
+					"priority": 2
+				}
+			],
+			"primaryIndustryCodes": [
+				{
+					"usSicV4": "5311",
+					"usSicV4Description": "Department store"
+				}
+			],
+			"iconUrl": "//axdprrulpfmh.compat.objectstorage.us-phoenix-1.oraclecloud.com/datafox-public-prod/favicons/5230dfaa7989846b3600231c.ico"
+		}
+	},
+	{
+		"displaySequence": 1,
+		"organization": {
+			"duns": "124578930",
+			"dunsControlStatus": {
+				"isOutOfBusiness": false
+			},
+			"primaryName": "OptimaTech Group",
+			"primaryAddress": {
+				"addressCountry": {
+					"isoAlpha2Code": "US"
+				},
+				"streetAddress": {
+					"line1": "555 SW 5TH ST"
+				},
+				"addressLocality": {
+					"name": "BENTONVILLE"
+				},
+				"addressRegion": {
+					"name": "Toronto"
+				}
+			},
+			"corporateLinkage": {
+				"isBranch": false
+			},
+			"financials": [
+				{
+					"yearlyRevenue": [
+						{
+							"value": 485873000000,
+							"currency": "USD"
+						}
+					]
+				}
+			],
+			"tradeStyleNames": [
+				{
+					"name": "GORMAN",
+					"priority": 1
+				},
+				{
+					"name": "GORMAN Co.",
+					"priority": 2
+				}
+			],
+			"primaryIndustryCodes": [
+				{
+					"usSicV4": "5311",
+					"usSicV4Description": "Department store"
+				}
+			],
+			"iconUrl": "//axdprrulpfmh.compat.objectstorage.us-phoenix-1.oraclecloud.com/datafox-public-prod/favicons/6130eabc48989846a3601f782.ico"
+		}
+	},
+	{
+		"displaySequence": 1,
+		"organization": {
+			"duns": "283756194",
+			"dunsControlStatus": {
+				"isOutOfBusiness": false
+			},
+			"primaryName": "PrimeTech Labs",
+			"primaryAddress": {
+				"addressCountry": {
+					"isoAlpha2Code": "US"
+				},
+				"streetAddress": {
+					"line1": "555 SW 5TH ST"
+				},
+				"addressLocality": {
+					"name": "BENTONVILLE"
+				},
+				"addressRegion": {
+					"name": "Melbourne"
+				}
+			},
+			"corporateLinkage": {
+				"isBranch": false
+			},
+			"financials": [
+				{
+					"yearlyRevenue": [
+						{
+							"value": 485873000000,
+							"currency": "USD"
+						}
+					]
+				}
+			],
+			"tradeStyleNames": [
+				{
+					"name": "GORMAN",
+					"priority": 1
+				},
+				{
+					"name": "GORMAN Co.",
+					"priority": 2
+				}
+			],
+			"primaryIndustryCodes": [
+				{
+					"usSicV4": "5311",
+					"usSicV4Description": "Department store"
+				}
+			],
+			"iconUrl": "//axdprrulpfmh.compat.objectstorage.us-phoenix-1.oraclecloud.com/datafox-public-prod/favicons/6230dfec6989846b360032ac.ico"
+		}
+	},
+	{
+		"displaySequence": 1,
+		"organization": {
+			"duns": "847592034",
+			"dunsControlStatus": {
+				"isOutOfBusiness": false
+			},
+			"primaryName": "MetroTech Solutions",
+			"primaryAddress": {
+				"addressCountry": {
+					"isoAlpha2Code": "US"
+				},
+				"streetAddress": {
+					"line1": "555 SW 5TH ST"
+				},
+				"addressLocality": {
+					"name": "BENTONVILLE"
+				},
+				"addressRegion": {
+					"name": "New York"
+				}
+			},
+			"corporateLinkage": {
+				"isBranch": false
+			},
+			"financials": [
+				{
+					"yearlyRevenue": [
+						{
+							"value": 485873000000,
+							"currency": "USD"
+						}
+					]
+				}
+			],
+			"tradeStyleNames": [
+				{
+					"name": "GORMAN",
+					"priority": 1
+				},
+				{
+					"name": "GORMAN Co.",
+					"priority": 2
+				}
+			],
+			"primaryIndustryCodes": [
+				{
+					"usSicV4": "5311",
+					"usSicV4Description": "Department store"
+				}
+			],
+			"iconUrl": "//axdprrulpfmh.compat.objectstorage.us-phoenix-1.oraclecloud.com/datafox-public-prod/favicons/7230efec7989846a36008752.ico"
+		}
+	},
+	{
+		"displaySequence": 1,
+		"organization": {
+			"duns": "394857612",
+			"dunsControlStatus": {
+				"isOutOfBusiness": false
+			},
+			"primaryName": "InstaTech Solutions",
+			"primaryAddress": {
+				"addressCountry": {
+					"isoAlpha2Code": "US"
+				},
+				"streetAddress": {
+					"line1": "555 SW 5TH ST"
+				},
+				"addressLocality": {
+					"name": "BENTONVILLE"
+				},
+				"addressRegion": {
+					"name": "London"
+				}
+			},
+			"corporateLinkage": {
+				"isBranch": false
+			},
+			"financials": [
+				{
+					"yearlyRevenue": [
+						{
+							"value": 485873000000,
+							"currency": "USD"
+						}
+					]
+				}
+			],
+			"tradeStyleNames": [
+				{
+					"name": "GORMAN",
+					"priority": 1
+				},
+				{
+					"name": "GORMAN Co.",
+					"priority": 2
+				}
+			],
+			"primaryIndustryCodes": [
+				{
+					"usSicV4": "5311",
+					"usSicV4Description": "Department store"
+				}
+			],
+			"iconUrl": "//axdprrulpfmh.compat.objectstorage.us-phoenix-1.oraclecloud.com/datafox-public-prod/favicons/6230gfec6989846b360031be.ico"
+		}
+	},
+	{
+		"displaySequence": 1,
+		"organization": {
+			"duns": "958473012",
+			"dunsControlStatus": {
+				"isOutOfBusiness": false
+			},
+			"primaryName": "NovaTech Enterprises",
+			"primaryAddress": {
+				"addressCountry": {
+					"isoAlpha2Code": "US"
+				},
+				"streetAddress": {
+					"line1": "555 SW 5TH ST"
+				},
+				"addressLocality": {
+					"name": "BENTONVILLE"
+				},
+				"addressRegion": {
+					"name": "Berlin"
+				}
+			},
+			"corporateLinkage": {
+				"isBranch": false
+			},
+			"financials": [
+				{
+					"yearlyRevenue": [
+						{
+							"value": 485873000000,
+							"currency": "USD"
+						}
+					]
+				}
+			],
+			"tradeStyleNames": [
+				{
+					"name": "GORMAN",
+					"priority": 1
+				},
+				{
+					"name": "GORMAN Co.",
+					"priority": 2
+				}
+			],
+			"primaryIndustryCodes": [
+				{
+					"usSicV4": "5311",
+					"usSicV4Description": "Department store"
+				}
+			],
+			"iconUrl": "//axdprrulpfmh.compat.objectstorage.us-phoenix-1.oraclecloud.com/datafox-public-prod/favicons/8230hfca8989846a3600045f.ico"
+		}
+	},
+	{
+		"displaySequence": 1,
+		"organization": {
+			"duns": "392875641",
+			"dunsControlStatus": {
+				"isOutOfBusiness": false
+			},
+			"primaryName": "PentaTech Industries",
+			"primaryAddress": {
+				"addressCountry": {
+					"isoAlpha2Code": "US"
+				},
+				"streetAddress": {
+					"line1": "555 SW 5TH ST"
+				},
+				"addressLocality": {
+					"name": "BENTONVILLE"
+				},
+				"addressRegion": {
+					"name": "Paris"
+				}
+			},
+			"corporateLinkage": {
+				"isBranch": false
+			},
+			"financials": [
+				{
+					"yearlyRevenue": [
+						{
+							"value": 485873000000,
+							"currency": "USD"
+						}
+					]
+				}
+			],
+			"tradeStyleNames": [
+				{
+					"name": "GORMAN",
+					"priority": 1
+				},
+				{
+					"name": "GORMAN Co.",
+					"priority": 2
+				}
+			],
+			"primaryIndustryCodes": [
+				{
+					"usSicV4": "5311",
+					"usSicV4Description": "Department store"
+				}
+			],
+			"iconUrl": "//axdprrulpfmh.compat.objectstorage.us-phoenix-1.oraclecloud.com/datafox-public-prod/favicons/8230hfbb7899846b3600952d.ico"
+		}
+	},
+	{
+		"displaySequence": 1,
+		"organization": {
+			"duns": "582930174",
+			"dunsControlStatus": {
+				"isOutOfBusiness": false
+			},
+			"primaryName": "QuantumTech Systems",
+			"primaryAddress": {
+				"addressCountry": {
+					"isoAlpha2Code": "US"
+				},
+				"streetAddress": {
+					"line1": "555 SW 5TH ST"
+				},
+				"addressLocality": {
+					"name": "BENTONVILLE"
+				},
+				"addressRegion": {
+					"name": "Madrid"
+				}
+			},
+			"corporateLinkage": {
+				"isBranch": false
+			},
+			"financials": [
+				{
+					"yearlyRevenue": [
+						{
+							"value": 485873000000,
+							"currency": "USD"
+						}
+					]
+				}
+			],
+			"tradeStyleNames": [
+				{
+					"name": "GORMAN",
+					"priority": 1
+				},
+				{
+					"name": "GORMAN Co.",
+					"priority": 2
+				}
+			],
+			"primaryIndustryCodes": [
+				{
+					"usSicV4": "5311",
+					"usSicV4Description": "Department store"
+				}
+			],
+			"iconUrl": "//axdprrulpfmh.compat.objectstorage.us-phoenix-1.oraclecloud.com/datafox-public-prod/favicons/9230jgdc6989846c360102ec.ico"
+		}
+	}
+]}
