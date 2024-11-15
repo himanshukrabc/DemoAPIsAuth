@@ -21,8 +21,10 @@ const JWT_SECRET = process.env.JWT_SECRET || 'your-secret-key';
 const TOKEN_EXPIRY = 3600;
 
 app.post('/oauth/token', (req, res) => {
+    console.log("Header -----------------------------------");
+    console.log(req.header);
+    console.log("Body -----------------------------------");
     console.log(req.body);
-    console.log(req.headers);
     const { client_id, client_secret } = req.body;
 
 
@@ -47,6 +49,10 @@ app.post('/oauth/token', (req, res) => {
 });
 
 const verifyToken = (req, res, next) => {
+    console.log("Header -----------------------------------");
+    console.log(req.header);
+    console.log("Body -----------------------------------");
+    console.log(req.body);
     const authHeader = req.headers.authorization;
 
     if (!authHeader || !authHeader.startsWith('Bearer ')) {
