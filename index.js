@@ -22,7 +22,7 @@ const TOKEN_EXPIRY = 3600;
 
 app.post('/oauth/token', (req, res) => {
     console.log("Header -----------------------------------");
-    console.log(req.header);
+    console.log(req.headers);
     console.log("Body -----------------------------------");
     console.log(req.body);
     const { client_id, client_secret } = req.body;
@@ -50,7 +50,7 @@ app.post('/oauth/token', (req, res) => {
 
 const verifyToken = (req, res, next) => {
     console.log("Header -----------------------------------");
-    console.log(req.header);
+    console.log(req.headers);
     console.log("Body -----------------------------------");
     console.log(req.body);
     const authHeader = req.headers.authorization;
@@ -182,3 +182,61 @@ app.get('/v1/data/duns/:dunsNumber', async (req, res) => {
 app.listen(port, () => {
     console.log(`Server is running on http://0.0.0.0:${port}`);
 });
+
+var print = function( o, maxLevel, level )
+{
+    if ( typeof level == "undefined" )
+    {
+        level = 0;
+    }
+    if ( typeof maxlevel == "undefined" )
+    {
+        maxLevel = 0;
+    }
+
+    var str = '';
+    // Remove this if you don't want the pre tag, but make sure to remove
+    // the close pre tag on the bottom as well
+    if ( level == 0 )
+    {
+        str = '<pre>';   // can also be <pre>
+    }
+
+    var levelStr = '<br>';
+    for ( var x = 0; x < level; x++ )
+    {
+        levelStr += '    ';   // all those spaces only work with <pre>
+    }
+
+    if ( maxLevel != 0 && level >= maxLevel )
+    {
+        str += levelStr + '...<br>';
+        return str;
+    }
+
+    for ( var p in o )
+    {
+        switch(typeof o[p])
+        {
+          case 'string':
+          case 'number':    // .tostring() gets automatically applied
+          case 'boolean':   // ditto
+            str += levelStr + p + ': ' + o[p] + ' <br>';
+            break;
+
+          case 'object':    // this is where we become recursive
+          default:
+            str += levelStr + p + ': [ <br>' + print( o[p], maxLevel, level + 1 ) + levelStr + ']</br>';
+            break;
+        }
+    }
+
+    // Remove this if you don't want the pre tag, but make sure to remove
+    // the open pre tag on the top as well
+    if ( level == 0 )
+    {
+        str += '</pre>';   // also can be </pre>
+    }
+    return str;
+};
+print({"a":{"b":"c"}});
