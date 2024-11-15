@@ -41,7 +41,7 @@ app.post('/oauth/token', (req, res) => {
         JWT_SECRET,
         { expiresIn: TOKEN_EXPIRY }
     );
-
+    console.log(token);
     return res.json({
         access_token: token,
         token_type: 'Bearer',
