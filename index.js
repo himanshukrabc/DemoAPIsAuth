@@ -27,7 +27,8 @@ app.post('/oauth/token', (req, res) => {
     console.log(req.body);
     const { client_id, client_secret } = req.body;
 
-
+    console.log(client_id);
+    console.log(client_secret);
     const client = clients[client_id];
     if (!client || client.clientSecret !== client_secret) {
         return res.status(401).json({ error: 'Invalid client credentials' });
